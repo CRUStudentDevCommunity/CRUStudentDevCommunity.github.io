@@ -1,3 +1,3 @@
 # webpage
 Our group project website first version
-# [CRUSchoolProject.github.io](https://cruschoolproject.github.io/)
+# [crustudentdevcommunity.github.io](https://crustudentdevcommunity.github.io/)
